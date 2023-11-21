@@ -10,7 +10,7 @@ In this hands-on project, we delve into the intricacies of building and automati
   - Open-source orchestration and scheduling platform.
   - Task automation for seamless workflow execution.
  
-  ![customer](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(388).png)
+  ![dag](https://github.com/3amory99/Customer-Churn-Data-Analytics-Data-Pipeline/blob/master/airflow-dag/Screenshot%20from%202023-11-21%2020-30-39.png)
 
 
 - **AWS Glue:**
