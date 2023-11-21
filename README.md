@@ -55,6 +55,21 @@ In this hands-on project, we delve into the intricacies of building and automati
 
 ## Getting Started
 
+
+## Dataset
+
+This project utilizes a fictional telco company dataset that provided home phone and Internet services to 7043 customers in California during Q3. The dataset is available on Kaggle and can be accessed [here](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?resource=download).
+
+### Dataset Overview
+
+- **Number of Customers:** 7043
+- **Location:** California
+- **Time Period:** Q3
+
+### Kaggle Dataset Link
+
+[Telco Customer Churn IBM Dataset](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?resource=download)
+
 To dive into the project, follow these steps:
 
 1. Clone the repository:
