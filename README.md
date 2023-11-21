@@ -9,6 +9,9 @@ In this hands-on project, we delve into the intricacies of building and automati
 - **Apache Airflow:**
   - Open-source orchestration and scheduling platform.
   - Task automation for seamless workflow execution.
+ 
+  ![customer](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(388).png)
+
 
 - **AWS Glue:**
   - Utilizes Glue Crawler to infer schemas from an AWS S3 bucket.
