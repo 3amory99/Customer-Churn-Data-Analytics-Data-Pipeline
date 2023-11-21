@@ -17,16 +17,27 @@ In this hands-on project, we delve into the intricacies of building and automati
   - Utilizes Glue Crawler to infer schemas from an AWS S3 bucket.
   - Creates a comprehensive data catalog for efficient data management.
   - Facilitates data loading into an Amazon Redshift data warehouse.
+ 
+  ![glue_1](https://github.com/3amory99/Customer-Churn-Data-Analytics-Data-Pipeline/blob/master/ETL-AWS/Screenshot%20from%202023-11-21%2020-32-05.png)
+
+  ![glue_2](https://github.com/3amory99/Customer-Churn-Data-Analytics-Data-Pipeline/blob/master/ETL-AWS/Screenshot%20from%202023-11-21%2020-09-12.png)
+  
 
 - **AWS S3:**
   - Serves as the source for our data, housing the information to be analyzed.
+  
+  ![s3](https://github.com/3amory99/Customer-Churn-Data-Analytics-Data-Pipeline/blob/master/ETL-AWS/Screenshot%20from%202023-11-21%2020-31-46.png)
 
 - **Amazon Redshift:**
   - Acts as the central data warehouse for storing and managing our processed data.
 
+  ![redshift](https://github.com/3amory99/Customer-Churn-Data-Analytics-Data-Pipeline/blob/master/ETL-AWS/Screenshot%20from%202023-11-21%2020-05-13.png)
+
 - **PowerBI:**
   - Connects seamlessly to the Redshift cluster for dynamic and interactive data visualization.
   - Provides valuable insights into customer churn patterns.
+ 
+  ![powerbi](https://github.com/3amory99/Customer-Churn-Data-Analytics-Data-Pipeline/blob/master/power-bi/WhatsApp%20Image%202023-11-21%20at%203.53.58%20PM.jpeg)
 
 ## Project Workflow
 
