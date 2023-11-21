@@ -2,6 +2,8 @@
 
 Welcome to the Customer Churn Data Analytics Data Pipeline project! This comprehensive Python ETL (Extract, Transform, Load) data engineering endeavor utilizes the power of Apache Airflow and various AWS services, including Glue, S3, and Redshift, to create an end-to-end solution for analyzing customer churn data. The project also seamlessly integrates PowerBI for insightful data visualization.
 
+  ![cover](https://github.com/3amory99/Customer-Churn-Data-Analytics-Data-Pipeline/blob/master/ETL-AWS/cover.png)
+
 ## Project Overview
 
 In this hands-on project, we delve into the intricacies of building and automating a robust ETL pipeline. The key components of our pipeline include:
